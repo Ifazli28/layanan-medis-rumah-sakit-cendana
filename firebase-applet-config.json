@@ -1,8 +1,8 @@
 {
-  apiKey: "AIzaSyD9teg_5sTrOeMVaWvBmK1BUbiVrODXJKQ",
-  authDomain: "gen-lang-client-0492531590.firebaseapp.com",
-  projectId: "gen-lang-client-0492531590",
-  storageBucket: "gen-lang-client-0492531590.firebasestorage.app",
-  messagingSenderId: "1039006948842",
-  appId: "1:1039006948842:web:bbaa9e648d74ed7a476693"
+  "apiKey": "AIzaSyD9teg_5sTrOeMVaWvBmK1BUbiVrODXJKQ",
+  "authDomain": "gen-lang-client-0492531590.firebaseapp.com",
+  "projectId": "gen-lang-client-0492531590",
+  "storageBucket": "gen-lang-client-0492531590.firebasestorage.app",
+  "messagingSenderId": "1039006948842",
+  "appId": "1:1039006948842:web:bbaa9e648d74ed7a476693"
 }
